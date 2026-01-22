@@ -13,12 +13,4 @@ This project contains a **prototype of an immersive Digital Product Passport** f
 - **assets/**: Images, icons, and videos  
 - **scripts/**: Optional code for data visualization or automation  
 - **data/**: Product datasets (composition, origin, certifications, environmental footprint)  
-- **docs/**: Research, benchmarks, notes  
-
-## How to Open / Run
-- **Prototype files**: Open `prototype/index.html` in a browser OR open Figma/XD file in Figma/XD app  
-- **Scripts (if any)**:  
-```bash
-# Example for Python scripts
-pip install -r requirements.txt
-python scripts/data_visualization.py
+- **docs/**: Research, benchmarks, notes 
